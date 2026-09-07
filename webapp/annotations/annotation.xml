@@ -12,10 +12,10 @@
                     <Collection>
                         <Record Type="UI.DataField">
                             <PropertyValue Property="Label" String="Productid"/>
-                            <PropertyValue Property="Value" Path="Productid"/>
+                            <PropertyValue Property="Value" Path="Product Id"/>
                         </Record>
                         <Record Type="UI.DataField">
-                            <PropertyValue Property="Label" String="Productname"/>
+                            <PropertyValue Property="Label" String="Product Name"/>
                             <PropertyValue Property="Value" Path="Productname"/>
                         </Record>
                         <Record Type="UI.DataField">
